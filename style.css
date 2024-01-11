@@ -1,5 +1,5 @@
 .bannerContainer {
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(banner.png);
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("banner.png");
     background-repeat: no-repeat;
     border-radius: 16px;
     width: 1320px;
